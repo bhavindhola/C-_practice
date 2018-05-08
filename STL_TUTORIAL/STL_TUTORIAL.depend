@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1511967461 source:c:\users\mjamil\desktop\tut\stl_tutorial\main.cpp
+	<iostream>
+	<stdio.h>
+

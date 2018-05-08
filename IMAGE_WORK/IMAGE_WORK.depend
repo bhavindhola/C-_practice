@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1512742541 source:c:\users\mjamil\desktop\tut\image_work\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	"IMAGE.h"
+	"IMAGE.cpp"
+
+1512720383 c:\users\mjamil\desktop\tut\image_work\image.h
+
+1512741924 c:\users\mjamil\desktop\tut\image_work\image.cpp
+	<stdlib.h>
+	<iostream>
+	"IMAGE.h"
+	<cmath>
+
